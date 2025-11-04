@@ -1,0 +1,14 @@
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+  gap: 20px;
+}
+
+.loading-message {
+  color: var(--gray);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
